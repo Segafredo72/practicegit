@@ -1,1 +1,2 @@
 Hello from file2 exercise C.4.
+Added comment for excercise C
